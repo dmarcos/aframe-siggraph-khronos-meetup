@@ -1,6 +1,6 @@
 <div class="talk-title">
   <h1>A-Frame</h1>
-  <p>A Web framework to building VR content</p>
+  <p>A Web framework to build VR content</p>
   <p class="talk-info">
     @fernandojsg | @ngokevin | @dmarcos | **aframe.io**
   </p>
@@ -191,7 +191,7 @@ Alex Vlack
 
 # Link Traversal
 
-<img data-src="media/img/linkTraversal.gif" width="800"></img>
+<img data-src="media/img/linktraversal.gif" width="800"></img>
 
 ------
 
@@ -204,6 +204,12 @@ Alex Vlack
 # Mixed Reality Workflow
 
 <!-- .slide: data-background-video="media/video/greenscreen.mp4" data-background-video-loop="true" -->
+
+------
+
+# WebVR is shipping on Firefox 55 in August 2017
+
+<!-- .slide: data-background="media/img/webvr.jpg" -->
 
 ------
 
